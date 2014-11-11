@@ -9,6 +9,7 @@ namespace GitTest2Project
     {
         static void Main(string[] args)
         {
+            int i = 0;//commit 2
         }
     }
 }
